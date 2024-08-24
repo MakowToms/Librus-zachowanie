@@ -1,10 +1,10 @@
 {
   "addons": {
-    "example_name": {
+    "{82655cf2-cbaf-42e6-92ee-05d845d49d22}": {
       "updates": [
         {
           "version": "1.0",
-          "update_link": "https://example.com/addon-0.1.xpi"
+          "update_link": "https://makowtoms.github.io/Librus-zachowanie/Librus-zachowanie-1.0.xpi"
         }
       ]
     }
